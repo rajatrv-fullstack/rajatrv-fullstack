@@ -54,6 +54,5 @@ Co-author of **ISAO 300-2**, a published standard on automating threat intellige
 
 <a href="https://thefullstackciso.com"><img src="https://img.shields.io/badge/Full_record-thefullstackciso.com-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Full record"></a>
 <a href="https://www.linkedin.com/in/rajatrv/"><img src="https://img.shields.io/badge/LinkedIn-rajatrv-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn"></a>
-<a href="https://thefullstackciso.pages.dev"><img src="https://img.shields.io/badge/Blog-The_Full_Stack_CISO-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Blog"></a>
 
 <sub>Aldie, Virginia. Washington DC metro. U.S. citizen.</sub>

@@ -10,11 +10,11 @@ Every claim on that page links to the thing that proves it. Most of the proof wa
 
 ---
 
-![Login.gov](https://img.shields.io/badge/Login.gov-180M%2B_accounts-22D3EE?style=for-the-badge&labelColor=0A1220)
-![AWS](https://img.shields.io/badge/AWS-shipped_my_work_as_product-FB7185?style=for-the-badge&labelColor=0A1220)
-![ISO 27001](https://img.shields.io/badge/ISO_27001-zero_nonconformities-34D399?style=for-the-badge&labelColor=0A1220)
-![ISO 42001](https://img.shields.io/badge/ISO_42001-activated_2025-A78BFA?style=for-the-badge&labelColor=0A1220)
-![Incident](https://img.shields.io/badge/AI_insider_incident-contained_in_4_hours-FBBF24?style=for-the-badge&labelColor=0A1220)
+![Login.gov](https://img.shields.io/badge/Login.gov-180M%2B_accounts-FF4A1C?style=for-the-badge&labelColor=0A0A0A)
+![AWS](https://img.shields.io/badge/AWS-shipped_my_work_as_product-FF4A1C?style=for-the-badge&labelColor=0A0A0A)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-zero_nonconformities-FF4A1C?style=for-the-badge&labelColor=0A0A0A)
+![ISO 42001](https://img.shields.io/badge/ISO_42001-activated_2025-FF4A1C?style=for-the-badge&labelColor=0A0A0A)
+![Incident](https://img.shields.io/badge/AI_insider_incident-contained_in_4_hours-FF4A1C?style=for-the-badge&labelColor=0A0A0A)
 
 ---
 
@@ -33,14 +33,14 @@ Every claim on that page links to the thing that proves it. Most of the proof wa
 
 ### Certifications
 
-![CISSP](https://img.shields.io/badge/ISC2-CISSP-22D3EE?style=flat-square&labelColor=0A1220)
-![CISM](https://img.shields.io/badge/ISACA-CISM-34D399?style=flat-square&labelColor=0A1220)
-![CCISO](https://img.shields.io/badge/EC--Council-C%7CCISO-FB7185?style=flat-square&labelColor=0A1220)
-![CCSFP](https://img.shields.io/badge/HITRUST-CCSFP-A78BFA?style=flat-square&labelColor=0A1220)
-![GPEN](https://img.shields.io/badge/GIAC-GPEN-FBBF24?style=flat-square&labelColor=0A1220)
-![CEH](https://img.shields.io/badge/EC--Council-CEH-60A5FA?style=flat-square&labelColor=0A1220)
-![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-A3E635?style=flat-square&labelColor=0A1220)
-![QTE](https://img.shields.io/badge/DDN-Boardroom_QTE-22D3EE?style=flat-square&labelColor=0A1220)
+![CISSP](https://img.shields.io/badge/ISC2-CISSP-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![CISM](https://img.shields.io/badge/ISACA-CISM-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![CCISO](https://img.shields.io/badge/EC--Council-C%7CCISO-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![CCSFP](https://img.shields.io/badge/HITRUST-CCSFP-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![GPEN](https://img.shields.io/badge/GIAC-GPEN-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![CEH](https://img.shields.io/badge/EC--Council-CEH-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-F1F0EB?style=flat-square&labelColor=0A0A0A)
+![QTE](https://img.shields.io/badge/DDN-Boardroom_QTE-F1F0EB?style=flat-square&labelColor=0A0A0A)
 
 All five AWS certifications by December 2016, when fewer than seventy people outside Amazon had done it.
 
@@ -52,8 +52,8 @@ Co-author of **ISAO 300-2**, a published standard on automating threat intellige
 
 ---
 
-<a href="https://rajatrv-fullstack.github.io"><img src="https://img.shields.io/badge/Full_record-rajatrv--fullstack.github.io-22D3EE?style=for-the-badge&labelColor=0A1220" alt="Full record"></a>
-<a href="https://www.linkedin.com/in/rajatrv/"><img src="https://img.shields.io/badge/LinkedIn-rajatrv-0A66C2?style=for-the-badge&labelColor=0A1220" alt="LinkedIn"></a>
-<a href="https://thefullstackciso.pages.dev"><img src="https://img.shields.io/badge/Blog-The_Full_Stack_CISO-A78BFA?style=for-the-badge&labelColor=0A1220" alt="Blog"></a>
+<a href="https://rajatrv-fullstack.github.io"><img src="https://img.shields.io/badge/Full_record-rajatrv--fullstack.github.io-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Full record"></a>
+<a href="https://www.linkedin.com/in/rajatrv/"><img src="https://img.shields.io/badge/LinkedIn-rajatrv-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn"></a>
+<a href="https://thefullstackciso.pages.dev"><img src="https://img.shields.io/badge/Blog-The_Full_Stack_CISO-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Blog"></a>
 
 <sub>Aldie, Virginia. Washington DC metro. U.S. citizen.</sub>

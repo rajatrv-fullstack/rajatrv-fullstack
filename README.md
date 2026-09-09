@@ -4,7 +4,7 @@
 
 I co-designed the cryptography behind **Login.gov**. Amazon shipped two of my published solutions as product features. I certified ISO 27001 on the first attempt with **zero nonconformities**, and I run agentic AI in production under live audit.
 
-### [→ The full record, with receipts](https://rajatrv-fullstack.github.io)
+### [→ The full record, with receipts](https://thefullstackciso.com)
 
 Every claim on that page links to the thing that proves it. Most of the proof was published by someone other than me.
 
@@ -52,7 +52,7 @@ Co-author of **ISAO 300-2**, a published standard on automating threat intellige
 
 ---
 
-<a href="https://rajatrv-fullstack.github.io"><img src="https://img.shields.io/badge/Full_record-rajatrv--fullstack.github.io-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Full record"></a>
+<a href="https://thefullstackciso.com"><img src="https://img.shields.io/badge/Full_record-thefullstackciso.com-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Full record"></a>
 <a href="https://www.linkedin.com/in/rajatrv/"><img src="https://img.shields.io/badge/LinkedIn-rajatrv-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="LinkedIn"></a>
 <a href="https://thefullstackciso.pages.dev"><img src="https://img.shields.io/badge/Blog-The_Full_Stack_CISO-FF4A1C?style=for-the-badge&labelColor=0A0A0A" alt="Blog"></a>
 
